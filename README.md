@@ -2,10 +2,45 @@
   
   # Emad Hashem
   **Odoo Functional Consultant | ERP Business Analyst | Business Modeling Savvy | Odoo | Magento integration**
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emad_Hashem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emadhashem)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-  [![Portfolio](https://img.shields.io/badge/Website-Visit_Portfolio-121212?style=flat-square&logo=vercel)](YOUR_PORTFOLIO_LINK)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
+  ![Odoo](https://img.shields.io/badge/Odoo_v15_|_v16_|_v18-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+  
+  **ERP Modules**
+
+![Accounting](https://img.shields.io/badge/Accounting-2E7D32?style=for-the-badge)
+![Inventory](https://img.shields.io/badge/Inventory-EF6C00?style=for-the-badge)
+![Purchase](https://img.shields.io/badge/Purchase-1565C0?style=for-the-badge)
+![Sales](https://img.shields.io/badge/Sales-C62828?style=for-the-badge)
+![Manufacturing](https://img.shields.io/badge/Manufacturing-6A1B9A?style=for-the-badge)
+![HR](https://img.shields.io/badge/HR-00838F?style=for-the-badge)
+
+**Integrations**
+
+![Magento](https://img.shields.io/badge/Odoo_↔_Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+
+**Business Analysis & Documentation**
+
+![BRD](https://img.shields.io/badge/BRD-455A64?style=for-the-badge)
+![SRS](https://img.shields.io/badge/SRS-455A64?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-455A64?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/BPMN-455A64?style=for-the-badge)
+![User Stories](https://img.shields.io/badge/User_Stories-455A64?style=for-the-badge)
+![ERD](https://img.shields.io/badge/ERD-455A64?style=for-the-badge)
+![DFD](https://img.shields.io/badge/DFD-455A64?style=for-the-badge)
+![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-455A64?style=for-the-badge)
+
+**Methodologies**
+
+![SDLC](https://img.shields.io/badge/SDLC-37474F?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**Tools**
+
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
   <br />
 </div>
